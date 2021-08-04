@@ -1,35 +1,32 @@
 # Project Dev_Demo
  * Dev Tool: Unity 
  * Dev Language : C#
-
+ 
 ## Specification 
- > Game View : Back View 
+ > 2D RPG Genre
  > 
- > 방식 : 결승선 통과, 죽으면 처음부터 다시
- > 
- > 기록 측정 : TimeStamp()를 활용함
- > 
- > Severless -> Local
 
+## Character Manual
+```
+  Left Arrow Key : Move Left 
+  Right Arrow Key : Move Right
+  Down Arrow Key : Change Player Animation Crawl
+  A Key : Attack
+  S Key : Slide 
+  Space key : Jump 
+```
 ## Character Modeling 
- * Main Character : Skeleton Mesh (looks like Robot)
-
+ 
 ## Level Design 
 
 ## Animation
- > Asset Store 를 활용함
-
+ - Slide Condition 
+   : Player Animation status is 'Run'
+ - Crawl Condition 
+   : ????
+  
+  
 ## Fuction 
- > Object Detection 
- > 
- > Gravity, Effect, Sound 
- > 
- > Shader 
- > 
- > difficulty adujustment is none 
-
+ 
 ## Co-operation tool
  * github & discord
-
-### Date 
- * to May 31
